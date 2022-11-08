@@ -1,3 +1,5 @@
+package com.ironhack.w1.d1;
+
 import java.util.Date;
 
 public class Main {
