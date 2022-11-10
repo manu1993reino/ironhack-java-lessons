@@ -59,6 +59,10 @@ public class Main {
             counter++;
         } while (counter < oddNumbers.length);
 
+        System.out.println(Math.sqrt(64));
+        System.out.println(Math.pow(3, 6));
+
+
     }
 
     public static String[] createSubjectsArray(){
