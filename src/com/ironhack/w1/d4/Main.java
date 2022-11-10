@@ -22,5 +22,7 @@ public class Main {
         System.out.println(bd1.setScale(2, RoundingMode.HALF_EVEN));
         System.out.println(bd1.compareTo(bd2));
 
+        System.out.println("Que pasa big decimal");
+
     }
 }
